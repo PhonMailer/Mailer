@@ -1,0 +1,29 @@
+<body style="padding-left: 20px">
+  <div class="rcmBody" style="font-family: Verdana,Geneva,sans-serif; font-size: 10pt;">
+    <p class="p1"><span class="s1">Good day.</span></p>
+
+    <p class="p2">&nbsp;</p>
+
+    <p class="p2">Please confirm the invoice for correction before we proceed with the payment.&nbsp;&nbsp;<br></p>
+
+    <p class="p1"><span class="s1">Correction cannot be made after the payment is been submitted.</span></p>
+
+    <p class="p2">&nbsp;</p>
+    <p><a href=""><img width="184" height="127" src="https://mcusercontent.com/e5e72686ed5f316287a94aed8/images/cf7842b9-079e-4a12-ac97-1f974eae58a6.png" alt="copy_printer_ HP_scan2118.PDF"></a></p>
+
+    <p><br></p>
+
+    <p class="p1"><span class="s1">Best&nbsp;Regards,</span></p>
+
+    <p class="p1"><span class="s1">(Ms.) Camilo Daniel<br></span><span class="s1">Jr. Executive |Customer Service |Export</span></p>
+
+
+
+    <p class="p1"><span class="s1"><strong>COSCO&nbsp;SHIPPING LINES CO., LTD.<br></strong></span><span class="s1"><strong>NEW GOLDEN SEA SHIPPING PTE. LTD.<br></strong></span><br></a></strong></span></span><span class="s1"><strong>CONTINENTAL TRADERS<br></strong></span><span class="s1">National Scout Bhaban (14</span><span class="s6"><sup>th</sup></span><span class="s1">&nbsp;Floor)<br></span><span class="s1">70/1&nbsp;Kakrail, Dhaka-1000,&nbsp;Bangladesh</span></p>
+
+    <p class="p3">&nbsp;</p>
+
+    <p><br></p>
+  </div>
+</body>
+</html>
